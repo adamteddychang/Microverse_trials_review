@@ -14,10 +14,10 @@
 <div class="form-wrapper p-4 my-5">
   <h1 id="title" class="text-center" > Tea consumption: A survey</h1>
 <p id="description" class="text-center"> To find out if people drink tea.</p>
-<form action=""  id="survey-form">
+<form action="action_page.php"  id="survey-form">
   <div class="mb-3">
     <label for="name" class="form-label" id="name-label">Full Name</label>
-    <input type="name" class="form-control" id="name" placeholder="Put your Full Name" required>
+    <input type="text" class="form-control" id="name" placeholder="Put your Full Name" required>
   </div>
   <div class="mb-3">
     <label for="email" class="form-label" id="email-label">Email address</label>
@@ -59,14 +59,14 @@
       </label>
     </div>
     <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="Greentea" id="flexCheckChecked" checked>
-      <label class="form-check-label" for="flexCheckChecked">
+      <input class="form-check-input flexCheckChecked" type="checkbox" value="Greentea" checked>
+      <label class="form-check-label" >
         Green tea
       </label>
     </div>
     <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="All" id="flexCheckChecked" >
-      <label class="form-check-label" for="flexCheckChecked">
+      <input class="form-check-input flexCheckChecked" type="checkbox" value="All"  >
+      <label class="form-check-label" >
         All of the above
       </label>
     </div>
@@ -82,7 +82,7 @@
 </form>
 </div>
    
-    <script  src="js/index.js"></script>
+    
   </body>
   
 </html>
