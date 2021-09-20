@@ -1,11 +1,9 @@
-# Microverse_trials_review
+# Microverse_trials_review - Teaconsumption: A Survey
 
 > In this project, I will copy a project from "Microverse collaboration Trials". 
-> I will update the code with the knowledge I learned last week. 
+> I will update the code with the knowledge I have learned last week. 
 > It is a Tea consumption Survey created with FreeCodeCamp test suite template.  
 > My goal here update the code to meet microverse standards and requirements.
-
-
 
 
 
@@ -22,16 +20,12 @@ No Demo
 ## Getting Started
 
 
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Setup
 - Clone this Repository
 - You can do so on the website Girhub.com, go to the green button that says "Code", click on it, and clone it. 
 - You can also type git clone https://github.com/adamteddychang/Microverse_trials_review.git into your terminal. 
-
-
 
 
 
