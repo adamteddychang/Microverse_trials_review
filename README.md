@@ -25,7 +25,9 @@ No Demo
 To get a local copy up and running follow these simple example steps.
 
 ### Setup
-Clone this Repository
+- Clone this Repository
+- You can do so on the website Girhub.com,
+or you can type git clone https://github.com/adamteddychang/Microverse_trials_review.git into your terminal. 
 
 
 
